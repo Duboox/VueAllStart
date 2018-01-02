@@ -1,0 +1,12 @@
+{
+  "/": {
+    "title": "Tecnibilds - Web Development",
+    "description": "Empresa de desarrollo web",
+    "keywords": "Web, diseño, seo, development, design"
+  },
+  "/about": {
+    "title": "Tecnibilds - About us",
+    "description": "Empresa de desarrollo web",
+    "keywords": "Web, diseño, seo, development, design"
+  }
+}
